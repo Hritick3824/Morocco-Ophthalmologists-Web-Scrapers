@@ -1,1 +1,1 @@
-chromedriver\chromedriver.exe
+git rm --cached chromedriver/chromedriver.exe
